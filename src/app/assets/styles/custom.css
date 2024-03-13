@@ -1,0 +1,19 @@
+.text-name{
+    font-size: 32px !important;
+}
+
+.profile-item-rounded{
+    border-radius: 100%;
+    width: 100px !important;
+    height: 100px;
+    background-image: linear-gradient(to right top, #445e85, #39697d, #4c6f70, #64736b, #757673);
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    flex-direction: column !important;
+}
+
+
+.color-white{
+    color: white !important;
+}

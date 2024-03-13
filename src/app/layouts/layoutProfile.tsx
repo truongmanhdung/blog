@@ -1,5 +1,6 @@
 import React from "react";
 import '../assets/styles/layout.css'
+import '../assets/styles/custom.css'
 const LayoutProfile = ({
   children,
 }: Readonly<{

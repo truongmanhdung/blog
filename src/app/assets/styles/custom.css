@@ -4,6 +4,7 @@
 
 .profile-item-rounded{
     border-radius: 100%;
+    margin: auto;
     width: 130px !important;
     height: 130px;
     padding: 15px;
@@ -42,3 +43,11 @@
     height: 0.25rem;
     width: 3rem;
 }
+
+@media (max-width: 576px) {
+    .image-logo{
+        margin: auto;
+        margin-bottom: 20px;
+    }
+  }
+  

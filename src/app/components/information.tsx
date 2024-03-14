@@ -25,14 +25,14 @@ const Information = (props: Props) => {
         md={6}
         lg={6}
         xl={6}
-        className="items-center d-flex justify-center"
+        className="flex items-center justify-center"
       >
         <Image
           height={250}
           width={250}
           src={ImageProfile}
           style={{ objectFit: "cover" }}
-          className="rounded-full"
+          className="rounded-full image-logo"
           alt="Avatar"
         />
       </Col>
@@ -54,7 +54,7 @@ const Information = (props: Props) => {
           </Typography>
         </div>
 
-        <Row gutter={[24, 0]} className="profile-wrapper mt-[20px]">
+        <Row gutter={[24, 24]} className="profile-wrapper mt-[20px]">
           <Col xs={12} sm={12} md={6} lg={6} xl={4}>
             <div className="profile-item-rounded">
               <PhoneOutlined

@@ -7,7 +7,7 @@ const dataTimeLines = [
     id: 1,
     year: "2018",
     content:
-      "Năm 2018 là năm mình bắt đầu học đại học tại trường Học Viện Kỹ Thuật Quân Sự. Chuyên ngành mình chọn theo học đó là ngành Cơ Điện Tự hệ dân sự. Mình đã rất hào hứng vì đây là ngành mình rất thích và mình muốn sau này có thể có một công việc đúng ngành này. Sau khi ổn định vài tháng học tập và sống ở Hà Nội thì mình đã đi làm thêm và kiếm được 1 công việc bồi bàn ở quán lẩu nướng.",
+      "Năm 2018 là năm mình bắt đầu học đại học tại trường Học Viện Kỹ Thuật Quân Sự. Chuyên ngành mình chọn theo học đó là ngành Cơ Điện Tử hệ dân sự. Mình đã rất hào hứng vì đây là ngành mình rất thích và mình muốn sau này có thể có một công việc đúng ngành này. Sau khi ổn định vài tháng học tập và sống ở Hà Nội thì mình đã đi làm thêm và kiếm được 1 công việc bồi bàn ở quán lẩu nướng.",
     image: "",
     title: "Khởi đầu hành trình đại học",
   },

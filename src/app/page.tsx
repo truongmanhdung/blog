@@ -1,3 +1,4 @@
+"use client";
 import Profile from "./components/profile";
 import LayoutProfile from "./layouts/layoutProfile";
 

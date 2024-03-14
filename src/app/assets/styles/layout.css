@@ -1,10 +1,10 @@
 .backgroup-layout{
-	background-image: linear-gradient(to right top, #56667e, #3288a3, #00aba8, #53c88b, #b9dc60);
+	background-image: linear-gradient(to right top, #2f3339, #25383f, #1c3d3c, #234130, #374120);
 	min-height: 100vh;
 }
 
 .container{
 	margin: auto;
-	max-width: 80%;
+	max-width: 1200px;
 	padding: 20px;
 }

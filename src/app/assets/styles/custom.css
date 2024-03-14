@@ -4,8 +4,9 @@
 
 .profile-item-rounded{
     border-radius: 100%;
-    width: 100px !important;
-    height: 100px;
+    width: 130px !important;
+    height: 130px;
+    padding: 15px;
     background-image: linear-gradient(to right top, #445e85, #39697d, #4c6f70, #64736b, #757673);
     display: flex !important;
     align-items: center !important;
@@ -16,4 +17,28 @@
 
 .color-white{
     color: white !important;
+}
+
+.text-rounded{
+    display: block;
+  	display: -webkit-box;
+    line-height: 1.3;
+  	-webkit-line-clamp: 1;  /* số dòng hiển thị */
+  	-webkit-box-orient: vertical;
+  	overflow: hidden;
+  	text-overflow: ellipsis;
+}
+
+.border-color-header{
+    position: relative;
+    padding-bottom: 10px;
+}
+
+.border-color-header::before{
+    content: "";
+    background: linear-gradient(90deg, #ffb86c 0, #fc6c8f);
+    position: absolute;
+    bottom: 0;
+    height: 0.25rem;
+    width: 3rem;
 }

@@ -1,0 +1,60 @@
+.timeline-wrapper{
+
+}
+
+
+.timeline:before {
+    content: "";
+    width: 1px;
+    position: absolute;
+    right: 0.75rem;
+    top: 0;
+    bottom: 0;
+    --tw-bg-opacity: 1;
+    background-color: rgb(97 121 167 / var(--tw-bg-opacity));
+}
+
+.bg-grey600{
+    --tw-bg-opacity: 1;
+    background-color: rgb(99 115 129 / var(--tw-bg-opacity));
+}
+
+.bg-secondary {
+    --tw-bg-opacity: 1;
+    background-color: rgb(255 184 108 / var(--tw-bg-opacity));
+}
+
+.bg-grey300 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(223 227 232 / var(--tw-bg-opacity));
+}
+
+
+.text-primary {
+    --tw-text-opacity: 1;
+    color: rgb(252 108 143 / var(--tw-text-opacity));
+}
+
+.text-grey300 {
+    --tw-text-opacity: 1;
+    color: rgb(223 227 232 / var(--tw-text-opacity));
+}
+
+.relative {
+    position: relative;
+}
+
+.bg-dark4 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(32 41 58 / var(--tw-bg-opacity));
+}
+
+.text-grey200 {
+    --tw-text-opacity: 1;
+    color: rgb(244 246 248 / var(--tw-text-opacity));
+}
+
+.text-grey100{
+    --tw-text-opacity: 0.7;
+    color: rgb(244 246 248 / var(--tw-text-opacity));
+}
